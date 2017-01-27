@@ -1,0 +1,5 @@
+c:\users\daria\documents\visual studio 2015\Projects\UbbCourse1\UbbCourse1\bin\Debug\UbbCourse1.exe.config
+c:\users\daria\documents\visual studio 2015\Projects\UbbCourse1\UbbCourse1\bin\Debug\UbbCourse1.exe
+c:\users\daria\documents\visual studio 2015\Projects\UbbCourse1\UbbCourse1\bin\Debug\UbbCourse1.pdb
+c:\users\daria\documents\visual studio 2015\Projects\UbbCourse1\UbbCourse1\obj\Debug\UbbCourse1.exe
+c:\users\daria\documents\visual studio 2015\Projects\UbbCourse1\UbbCourse1\obj\Debug\UbbCourse1.pdb
